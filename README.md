@@ -31,3 +31,6 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 ## LinkedIn
   -https://www.linkedin.com/in/sophiarazzaq
   
+## My Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+  
