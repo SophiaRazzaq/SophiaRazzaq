@@ -27,3 +27,6 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 - Research 🔬
 - Public Speaking 🗣️
 
+## LinkedIn
+  -https://www.linkedin.com/in/sophiarazzaq
+  
