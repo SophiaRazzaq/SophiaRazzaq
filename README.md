@@ -11,7 +11,7 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 - Seeking first work experience 💼
 
 
-##Programming Skills 🚀
+## Programming Skills 🚀
 
 - C++/C (3+ years experience) 🎓
 - Python (2+ years) 🐍
