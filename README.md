@@ -10,13 +10,16 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 - Responsible and orderly person ✅
 - Seeking first work experience 💼
 
+
 ##Programming Skills 🚀
 
-- C++/C (3+ years experience) :cplusplus:
-- Python (2+ years) :python:
-- HTML/CSS (1+) :html: :css:
-- JavaScript - Node.js (1+) :javascript:
-- SQL - SQL Management Studio (1+) :sql:
+- C++/C (3+ years experience) 🎓
+- Python (2+ years) 🐍
+- HTML/CSS (1+) 🌐
+- Bootstrap 4-5 (1+) 🎨
+- Assembly Language (1+) 💻
+- SQL - SQL Management Studio (1+) 🗃️
+- JavaScript - Node.js (1+) 🌟
 
 ## Interests 💡
 
