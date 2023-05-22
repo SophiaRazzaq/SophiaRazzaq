@@ -29,8 +29,12 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 - Public Speaking 🗣️
 
 ## LinkedIn
-  -https://www.linkedin.com/in/sophiarazzaq
-  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sophiarazzaq/)
+
 ## My Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SophiaRazzaq&theme=dark"/>
+
+## My Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SophiaRazzaq&theme=dark"/>
   
