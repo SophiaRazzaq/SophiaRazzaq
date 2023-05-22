@@ -32,6 +32,8 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 <a href="https://www.linkedin.com/in/sophiarazzaq/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
+
+
 ## My Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SophiaRazzaq&theme=dark"/>
 
