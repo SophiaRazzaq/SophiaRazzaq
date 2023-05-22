@@ -1,7 +1,7 @@
 
 ## Introduction 👋
 
-Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analyst. I am currently working on projects both for my university studies and personal side projects.
+Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analyst. I am currently working on my university and as well as personal projects.
 
 
 ## Profile 🌟
