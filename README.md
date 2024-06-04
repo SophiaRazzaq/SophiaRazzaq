@@ -1,7 +1,7 @@
 
 ## Introduction 👋
 
-Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analyst. I am currently working on my university and as well as personal projects.
+Hello, I am Sophia, and I am a motivated programmer and data analyst. I am currently with Transformers such as BERT and Llama.
 
 
 ## Profile 🌟
@@ -24,6 +24,7 @@ Hello, my name is Sophia Razzzaq, and I am a motivated programmer and data analy
 ## Interests 💡
 
 - Data Analysis, Visualization, Manipulation, Cleaning, Scraping 📊📈🔍
+- Generative AI
 - Backend Development 👨‍💻
 - Research 🔬
 - Public Speaking 🗣️
